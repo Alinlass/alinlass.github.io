@@ -1,5 +1,3 @@
-# alinlass.github.io
-Me personal page
 <!doctype html>
   <html>
     <head>
