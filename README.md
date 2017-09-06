@@ -10,7 +10,8 @@
       <br/>
 	  <p>Студентка 1 курса бакалавриата Факультета гуманитарных наук НИУ ВШЭ. Люблю историю и собак </p>
       <h2>Контакты:</h2>
-     
+      Страничка <a href=https://vk.com/alinochkats/>vkontakte</a>
+      <br/>
       <a href=https://github.com/Alinlass>GitHub</a>
       <br/>
       Телефон: <b>+79671537749</b>
