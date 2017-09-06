@@ -10,7 +10,7 @@
       <br/>
 	  <p>Студентка 1 курса бакалавриата Факультета гуманитарных наук НИУ ВШЭ. Люблю историю и собак </p>
       <h2>Контакты:</h2>
-      Страничка <a href=https://vk.com/alinlass/>vkontakte</a>
+      Страничка <a href=https://vk.com/alinochkats/>vkontakte</a>
       <br/>
       <a href=https://github.com/alinlass>GitHub</a>
       <br/>
