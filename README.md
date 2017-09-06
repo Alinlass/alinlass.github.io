@@ -12,7 +12,7 @@
       <h2>Контакты:</h2>
       Страничка <a href=https://vk.com/alinochkats/>vkontakte</a>
       <br/>
-      <a href=https://github.com/alinlass>GitHub</a>
+      <a href=https://github.com/Alinlass>GitHub</a>
       <br/>
       Телефон: <b>+79671537749</b>
       <br/>
